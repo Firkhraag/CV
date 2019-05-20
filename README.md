@@ -1,1 +1,1 @@
-# Machine learning course project
+Computer Vision Project
